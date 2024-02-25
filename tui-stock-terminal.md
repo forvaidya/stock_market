@@ -15,7 +15,12 @@ Make a mock trading application using Zerodha API and a popular TUI framework ht
 + Develop a cliet to use that data and render it
   
 ## Technology Stack
-+ Expert in Go Programming Language https://go.dev, GoRoutines Channels, context, semaphores, mutex etc.
++ Expert in Go Programming Language https://go.dev,
++   GoRoutines Channels
++   Context, Mutex
++   Network Programming
+
+
 + Web feameworks, Websockets (https://pkg.go.dev/golang.org/x/net/websocket) 
 + JWT, SSL Certificates
 + Elementry knowledge ot Equity Markets, BID, ASK, Volume, VWPP
