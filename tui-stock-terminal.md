@@ -9,6 +9,12 @@ Goal is to develop low latency, pluggabble stock trading terminal with charts, a
 ### Short term goal
 Make a mock trading application using Zerodha API and a popular TUI framework https://charm.sh 
 
+### Ultra short term goal
++ Build Mock Server for nifty50 stocks
++ Generate random sample data with +/- 2% variaton
++ Develop a cliet to use that data and render it
++ 
+
 
 ## Technology Stack
 + Go Programming Language
