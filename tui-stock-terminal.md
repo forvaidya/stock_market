@@ -26,5 +26,5 @@ Make a mock trading application using Zerodha API and a popular TUI framework ht
 TUI is text user interface, example curses library in 1990s.
 
 # Possible Project exit 
-Partenering with zerodha 
-If this works well, this whole project with source code can be sold to Zerodha
++ Partenering with zerodha 
++ If this works well, this whole project with source code can be sold to Zerodha
