@@ -3,7 +3,7 @@
 ## Introduction 
 Most of the stock trading apps are heavywight web based apps, PWA or Native IOS / android apps.
 
-### Longterm Goal 
+### Long term Goal 
 Goal is to develop low latency, pluggabble stock trading terminal with charts, alerts, signals, strategies and pluggable strategies 
 
 ### Short term goal
