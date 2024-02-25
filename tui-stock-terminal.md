@@ -18,3 +18,5 @@ Make a mock trading application using Zerodha API and a popular TUI framework ht
 + Elemetry knowledge of Derivatives markets and buzzwords like CALL, PUT, BID, ASK, OpenInterest, Spread etc.
 + Javascript bases charting libraries
 
+# What is TUI 
+TUI is text user interface, example curses library in 1990s.
